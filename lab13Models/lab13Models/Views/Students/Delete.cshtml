@@ -1,0 +1,48 @@
+﻿@model lab13Models.Models.Students
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<link rel="stylesheet" href="~/StyleSheet.css">
+<link href="https://fonts.googleapis.com/css?family=Schoolbell" rel="stylesheet">
+<title>Delete Page</title>
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Students</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Grade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Grade)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Birthdate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Birthdate)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ID" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
