@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\bin\Debug\netcoreapp2.0\Lab13Models.deps.json
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\bin\Debug\netcoreapp2.0\Lab13Models.runtimeconfig.json
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\bin\Debug\netcoreapp2.0\Lab13Models.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\bin\Debug\netcoreapp2.0\Lab13Models.dll
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\obj\Debug\netcoreapp2.0\Lab13Models.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\obj\Debug\netcoreapp2.0\Lab13Models.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\obj\Debug\netcoreapp2.0\Lab13Models.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\obj\Debug\netcoreapp2.0\Lab13Models.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\bin\Debug\netcoreapp2.0\Lab13Models.pdb
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\obj\Debug\netcoreapp2.0\Lab13Models.dll
+C:\Users\acohr\source\repos\Lab13-Models\Lab13Models\obj\Debug\netcoreapp2.0\Lab13Models.pdb
