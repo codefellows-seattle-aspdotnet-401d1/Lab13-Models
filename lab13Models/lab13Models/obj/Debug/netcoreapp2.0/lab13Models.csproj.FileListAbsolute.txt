@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\bin\Debug\netcoreapp2.0\lab13Models.deps.json
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\bin\Debug\netcoreapp2.0\lab13Models.runtimeconfig.json
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\bin\Debug\netcoreapp2.0\lab13Models.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\bin\Debug\netcoreapp2.0\lab13Models.dll
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\obj\Debug\netcoreapp2.0\lab13Models.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\obj\Debug\netcoreapp2.0\lab13Models.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\obj\Debug\netcoreapp2.0\lab13Models.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\bin\Debug\netcoreapp2.0\lab13Models.pdb
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\obj\Debug\netcoreapp2.0\lab13Models.dll
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\obj\Debug\netcoreapp2.0\lab13Models.pdb
+C:\Users\admin\codefellows\401\lab13Models\lab13Models\lab13Models\obj\Debug\netcoreapp2.0\lab13Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,94 @@
+﻿body {
+    background-color: #636464;
+    color: #EAEAEA;
+    font-family: 'Schoolbell', cursive;
+}
+
+h1 {
+    font-size: 63px;
+    margin-left: 10%;
+}
+
+h2 {
+    color: #93EBDD;
+}
+
+h4 {
+    color: #93EBDD;
+}
+
+.div {
+    margin-top: 90px;
+    margin-left: 10%;
+}
+
+.register {
+    font-size: 30px;
+    padding: 7px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 30px;
+    border-color: #93EBDD;
+    background-color: #93EBDD;
+}
+a:link {
+    color: #EAEAEA;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #202020;
+}
+
+a:visited {
+    color: #202020;
+    text-decoration: none;
+}
+
+p {
+    margin-left: 10%;
+}
+
+table {
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+th {
+    font-size: 35px;
+    color: #202020;
+    padding: 10px;
+}
+
+td {
+    font-size: 25px;
+    text-align: center;
+}
+
+.controlls {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.form-group {
+    font-size: 30px;
+}
+
+input {
+    padding-left: 5px;
+    font-size: 30px;
+    border: none;
+    border-radius: 15px;
+}
+
+dt {
+    font-size: 35px;
+    margin-left: 10%;
+}
+
+dd {
+    color: #202020;
+    font-size: 25px;
+    margin-left: 12%;
+    margin-bottom: 10px;
+}
