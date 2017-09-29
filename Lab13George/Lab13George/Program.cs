@@ -20,6 +20,6 @@ namespace Lab13George
  * Add at least one Model named Register, with basic properties of what a student registration should consist of DONE
  * Use Scaffolding to generate the CRUD actions off of a "Register" Control. DONE
  * Create an initial Migration DONE
- * Have a solid Home page for when users when they visit your site. 
+ * Have a solid Home page for when users when they visit your site. DONE
  * Include a link to the Register pages for a student to register
  */
