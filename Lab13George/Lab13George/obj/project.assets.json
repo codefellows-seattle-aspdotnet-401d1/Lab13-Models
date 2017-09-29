@@ -13110,6 +13110,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
+      "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0"
     ]
@@ -13124,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\Lab13-Models\\Lab13George\\Lab13George\\Lab13George.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\Source\\Repos\\Lab13-Models\\Lab13George\\Lab13George\\Lab13George.csproj",
       "projectName": "Lab13George",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\Lab13-Models\\Lab13George\\Lab13George\\Lab13George.csproj",
+      "projectPath": "C:\\Users\\georg\\Source\\Repos\\Lab13-Models\\Lab13George\\Lab13George\\Lab13George.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\source\\repos\\Lab13-Models\\Lab13George\\Lab13George\\obj\\",
+      "outputPath": "C:\\Users\\georg\\Source\\Repos\\Lab13-Models\\Lab13George\\Lab13George\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13158,6 +13159,10 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "target": "Package",
+            "version": "2.0.0"
+          },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "2.0.0"
