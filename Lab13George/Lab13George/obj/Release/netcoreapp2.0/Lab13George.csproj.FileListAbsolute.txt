@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\bin\Release\netcoreapp2.0\Lab13George.deps.json
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\bin\Release\netcoreapp2.0\Lab13George.runtimeconfig.json
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\bin\Release\netcoreapp2.0\Lab13George.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\bin\Release\netcoreapp2.0\Lab13George.dll
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\bin\Release\netcoreapp2.0\Lab13George.pdb
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\obj\Release\netcoreapp2.0\Lab13George.csprojResolveAssemblyReference.cache
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\obj\Release\netcoreapp2.0\Lab13George.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\obj\Release\netcoreapp2.0\Lab13George.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\obj\Release\netcoreapp2.0\Lab13George.AssemblyInfo.cs
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\obj\Release\netcoreapp2.0\Lab13George.dll
+C:\Users\georg\source\repos\Lab13-Models\Lab13George\Lab13George\obj\Release\netcoreapp2.0\Lab13George.pdb
