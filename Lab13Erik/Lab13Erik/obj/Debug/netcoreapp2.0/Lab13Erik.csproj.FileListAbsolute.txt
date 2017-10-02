@@ -1,0 +1,11 @@
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\bin\Debug\netcoreapp2.0\Lab13Erik.deps.json
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\bin\Debug\netcoreapp2.0\Lab13Erik.runtimeconfig.json
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\bin\Debug\netcoreapp2.0\Lab13Erik.runtimeconfig.dev.json
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\bin\Debug\netcoreapp2.0\Lab13Erik.dll
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\obj\Debug\netcoreapp2.0\Lab13Erik.csprojResolveAssemblyReference.cache
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\obj\Debug\netcoreapp2.0\Lab13Erik.csproj.CoreCompileInputs.cache
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\obj\Debug\netcoreapp2.0\Lab13Erik.AssemblyInfoInputs.cache
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\obj\Debug\netcoreapp2.0\Lab13Erik.AssemblyInfo.cs
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\bin\Debug\netcoreapp2.0\Lab13Erik.pdb
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\obj\Debug\netcoreapp2.0\Lab13Erik.dll
+C:\Users\shop2\Source\Repos\Lab13-Models\Lab13Erik\Lab13Erik\obj\Debug\netcoreapp2.0\Lab13Erik.pdb
