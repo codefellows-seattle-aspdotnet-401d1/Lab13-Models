@@ -1,0 +1,26 @@
+﻿body {
+    background-color:black;
+    color: gold;
+    margin: 10px auto;
+    text-align: center;
+}
+
+tr {
+    padding: 10%;
+    margin-right: 50px;
+    align-content: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    text-align: left;
+    margin: 100px;
+}
+.row .col-md-4 {
+    margin: 0 auto;
+    text-align: center;
+    margin: 100px;
+}
